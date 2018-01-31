@@ -1,5 +1,7 @@
 # Passing-Rate-prediction-using-Naive-Bayes
-Predict the passing rate of a selected individual for a driving test in the UK, using Naive Bayes
+Predict the passing rate of a selected individual for a driving test in the UK, using Naive Bayes.
+
+# Case Profile
 XYZ is a student from LSE with the profile pseudo-randomly generated using the R function XYZprofile (with the argument being the numerical value of a 9-digit number of the format 2017*****
 
 # Problem Description
